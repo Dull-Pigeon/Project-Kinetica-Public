@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc5df918d3465e49bb70c5af428753d, type: 3}
+  m_Name: PhysicalMaterial_Stone
+  m_EditorClassIdentifier: Assembly-CSharp::PhysicalMaterialSO
+  materialName: Stone
+  hardness: 7.5
+  elasticity: 0.01
+  criticalPressure: 60
+  impactVFXPrefab: {fileID: 5645965870314598080, guid: 435707140b67edb4ba5fd7b8e8a42e78, type: 3}
