@@ -6,10 +6,11 @@
 
 Selected source and technical documentation from Project Kinetica.
 
-This repository is not the complete Unity project. It is a portfolio-oriented snapshot of selected, user-authored implementation files and small configuration examples.
+This repository is not the complete Unity project. It is a portfolio-oriented snapshot of selected implementation files authored for the project and small configuration examples.
 
-- Main visual case study: [Project Kinetica — Technical Art Portfolio](https://dull-pigeon.github.io/Technical-Art-Portfolio/projects/kinetica/)
-- Showcase Video: **Final Showcase link will be added after publication.**
+- Portfolio Case Study: [Project Kinetica — Technical Art Portfolio](https://dull-pigeon.github.io/Technical-Art-Portfolio/projects/kinetica/)
+- Showcase Video: [Watch on YouTube](https://youtu.be/U2FNPUOYYns?si=NcpO51QfnYB17_hm)
+- Technical Breakdown: [Project Kinetica — Technical Breakdown](Docs/Project-Kinetica-Technical-Breakdown.pdf)
 
 ## Frozen source provenance
 
@@ -45,17 +46,13 @@ Weapon and physical-material presets are stored as ScriptableObjects. `WeaponCol
 - `Source/Debug/` — runtime debug-panel event observer.
 - `Data/` — small frozen ScriptableObject preset examples for Hammer, Sword, Spear, Slime, Stone, and Metal.
 - `Shader/ShaderGraph_ImpactDeform.shadergraph` — the frozen localized-deformation Shader Graph, built from Unity/URP Shader Graph nodes and containing no packaged weapon source assets.
-- `Docs/` — reserved location for the confirmed final Technical Breakdown PDF.
+- `Docs/` — the confirmed final v5 Technical Breakdown PDF.
 
 The selected files preserve the frozen implementation, including original source filenames and behavior. The repository is intentionally not arranged or supplied as a runnable Unity project.
 
 ## Technical Breakdown
 
-The final Technical Breakdown PDF is not included yet. When the confirmed final version is available, add it as:
-
-`Docs/Project-Kinetica-Technical-Breakdown.pdf`
-
-An older or editable document should not be substituted for that final PDF.
+The confirmed final v5 document is available [in this repository](Docs/Project-Kinetica-Technical-Breakdown.pdf) and through the [portfolio download](https://dull-pigeon.github.io/Technical-Art-Portfolio/downloads/project-kinetica-breakdown.pdf).
 
 ## Third-party material
 
