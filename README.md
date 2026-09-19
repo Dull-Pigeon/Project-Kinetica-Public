@@ -46,13 +46,13 @@ Weapon and physical-material presets are stored as ScriptableObjects. `WeaponCol
 - `Source/Debug/` — runtime debug-panel event observer.
 - `Data/` — small frozen ScriptableObject preset examples for Hammer, Sword, Spear, Slime, Stone, and Metal.
 - `Shader/ShaderGraph_ImpactDeform.shadergraph` — the frozen localized-deformation Shader Graph, built from Unity/URP Shader Graph nodes and containing no packaged weapon source assets.
-- `Docs/` — the confirmed final v5 Technical Breakdown PDF.
+- `Docs/` — the final Technical Breakdown PDF.
 
 The selected files preserve the frozen implementation, including original source filenames and behavior. The repository is intentionally not arranged or supplied as a runnable Unity project.
 
 ## Technical Breakdown
 
-The confirmed final v5 document is available [in this repository](Docs/Project-Kinetica-Technical-Breakdown.pdf) and through the [portfolio download](https://dull-pigeon.github.io/Technical-Art-Portfolio/downloads/project-kinetica-breakdown.pdf).
+The final document is available [in this repository](Docs/Project-Kinetica-Technical-Breakdown.pdf) and through the [portfolio download](https://dull-pigeon.github.io/Technical-Art-Portfolio/downloads/project-kinetica-breakdown.pdf).
 
 ## Third-party material
 
